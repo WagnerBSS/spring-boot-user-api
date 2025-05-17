@@ -11,9 +11,9 @@
 
 📂 Estrutura do Projeto
 
-- 📄 User**: Entidade que representa um usuário com `id`, `name` e `age`.
-- 🔧 UserService**: Serviço que realiza operações de gerenciamento de usuários utilizando um `Map` para armazenamento em memória.
-- 🌐 UserController**: Controller que expõe os endpoints REST para interação com os usuários.
+- 📄 User: Entidade que representa um usuário com `id`, `name` e `age`.
+- 🔧 UserService: Serviço que realiza operações de gerenciamento de usuários utilizando um `Map` para armazenamento em memória.
+- 🌐 UserController: Controller que expõe os endpoints REST para interação com os usuários.
 
 💻 Tecnologias Utilizadas
 
