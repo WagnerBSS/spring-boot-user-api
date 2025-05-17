@@ -31,7 +31,7 @@ public class UserService {
             users.put(id, user);
             return user;
         }
-        return null; // ou lance uma exceção personalizada
+        return null;
     }
 
     public boolean deleteUser(Long id) {
